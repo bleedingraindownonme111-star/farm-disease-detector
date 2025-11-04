@@ -30,7 +30,7 @@
 - [Screenshots](#️-screenshots)
 - [Project Architecture](#️-project-architecture)
 - [Development](#-development)
-- [Contributing](#-contributing)
+  
 - [License](#-license)
 - [Contact](#-contact)
 
@@ -642,78 +642,15 @@ You can modify the color scheme in CSS sections:
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions to improve AgroVision AI Pro! Here's how you can help:
-
-### Ways to Contribute
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🐛 Report Bugs**
-
-Found a bug?
-[Open an issue](https://github.com/yourusername/agrovision-ai/issues)
-
-</td>
-<td width="33%" align="center">
-
-**💡 Suggest Features**
-
-Have an idea?
-[Create feature request](https://github.com/yourusername/agrovision-ai/issues/new)
-
-</td>
-<td width="33%" align="center">
-
-**📝 Improve Docs**
-
-Help others!
-[Edit documentation](https://github.com/yourusername/agrovision-ai/edit)
-
-</td>
-</tr>
-</table>
-
-### Development Process
-
-1. **Fork** the project
-2. Create your **feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. Open a **Pull Request**
-
-### Code Standards
-
-- Use descriptive variable names
-- Comment complex logic
-- Follow existing code style
-- Test changes before submitting PR
-- Update documentation if needed
-
-### Adding to Disease Database
-
-We especially appreciate contributions to expand our disease database:
-
-1. Research the disease thoroughly
-2. Include scientific pathogen name
-3. Provide accurate symptoms
-4. Add proven treatment methods
-5. Include prevention strategies
-6. Submit with references
-
----
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License
 ```
 MIT License
 
-Copyright (c) 2024 AgroVision AI Pro
+Copyright (c) 2025 AgroVision AI Pro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -734,7 +671,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111, https://github.com/iliasidorov228-afk)
+[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111)
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuzyachkin.i@gmail.com)
 
 
