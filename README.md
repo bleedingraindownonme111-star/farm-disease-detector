@@ -672,7 +672,8 @@ copies or substantial portions of the Software.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-bleedingraindownonme111-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111)
-[![Email](https://img.shields.io/badge/kuzyachkin.i@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuzyachkin.i@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-iliasidorov228-afk-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111)
+
 
 
 </div>
