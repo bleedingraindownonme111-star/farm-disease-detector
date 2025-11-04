@@ -671,14 +671,13 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-bleedingraindownonme111-181717?style=for-the-badge&logo=github)]
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-iliasidorov228-afk-181717?style=for-the-badge&logo=github)]
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-bleedingraindownonme111-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111)
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-iliasidorov228--afk-181717?style=for-the-badge&logo=github)](https://github.com/iliasidorov228-afk)
 
 </div>
+
+
 
 
 ## 🙏 Acknowledgments
