@@ -49,7 +49,7 @@
 Globally, agriculture loses up to 40% of crops annually due to plant diseases. Early diagnosis is critical to prevent disease spread and preserve harvests. AgroVision AI Pro provides:
 
 - ⚡ **Instant Diagnosis** — image analysis in seconds
-- 🎯 **High Accuracy** — 99% disease detection accuracy
+- 🎯 **High Accuracy** — 99% disease detection accuracy (in the process of improvement, machine learning stage)
 - 🌍 **Accessibility** — works anywhere in the world via browser
 - 💰 **Cost Savings** — reduce crop losses by up to 30%
 
@@ -86,7 +86,7 @@ Globally, agriculture loses up to 40% of crops annually due to plant diseases. E
 - **ML Symptom Analysis** — multi-level analysis system with severity assessment
 - **Advanced Diagnostics** — detailed pathogen, symptom, and spread analysis
 - **Smart Recommendations** — personalized advice based on weather conditions
-- **99% Accuracy** — validated disease identification system
+- **99% Accuracy (in process)** — validated disease identification system
 - **Real-time Processing** — instant results in 2-3 seconds
 - **Adaptive Learning** — context-aware diagnosis
 
