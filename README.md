@@ -29,7 +29,7 @@
 - [Usage](#-usage)
 - [Screenshots](#️-screenshots)
 - [Project Architecture](#️-project-architecture)
-- [Development](#-development)
+
   
 - [License](#-license)
 - [Contact](#-contact)
