@@ -14,8 +14,6 @@
 
 *Advanced machine learning technology for accurate diagnosis and treatment of agricultural crop diseases*
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/agrovision-ai/issues)
-
 </div>
 
 ---
@@ -736,21 +734,12 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/bleedingraindownonme111, https://github.com/iliasidorov228-afk)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuzyachkin.i@gmail.com)
+
 
 </div>
 
-### Project Links
-
-- 🌐 **Website**: [agrovision-ai.com](https://agrovision-ai.com)
-- 📚 **Documentation**: [docs.agrovision-ai.com](https://docs.agrovision-ai.com)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/agrovision-ai/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/agrovision-ai/discussions)
-- 📧 **Email**: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -777,17 +766,6 @@ Special thanks to all contributors and users of the project!
 
 ---
 
-## 📈 Project Statistics
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/agrovision-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/agrovision-ai?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/agrovision-ai?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/agrovision-ai)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/agrovision-ai)
-
-</div>
 
 ---
 
@@ -820,35 +798,8 @@ Special thanks to all contributors and users of the project!
 
 ---
 
-## 🌟 Show Your Support
 
-<div align="center">
 
-**If this project helped you, please give it a ⭐ on GitHub!**
-
-It motivates us to keep improving and adding new features.
-
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/agrovision-ai?style=social)](https://github.com/yourusername/agrovision-ai)
-
-</div>
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| Disease Detection Accuracy | 99% | ✅ Excellent |
-| Analysis Speed | 2-3 seconds | ✅ Fast |
-| Database Coverage | 200+ diseases | ✅ Comprehensive |
-| Supported Crops | 20 types | ✅ Diverse |
-| Weather API Uptime | 99.9% | ✅ Reliable |
-| Mobile Responsiveness | 100% | ✅ Perfect |
-| User Satisfaction | 4.8/5 | ✅ High |
-
-</div>
 
 ---
 
@@ -926,6 +877,6 @@ It motivates us to keep improving and adding new features.
 
 ---
 
-**© 2024 AgroVision AI Pro. All rights reserved.**
+**© 2025 AgroVision AI Pro. All rights reserved.**
 
 </div>
